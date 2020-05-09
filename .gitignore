@@ -1,0 +1,7 @@
+.terraform
+*.tfstate
+*.tfstate.backup
+
+axial-camp-269920-b62066ae0c26.json
+
+set_credential.md
